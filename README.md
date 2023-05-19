@@ -3,7 +3,7 @@
 ## Description
 
 I refactored the code to make it easily readable. I used HTML semnatics to get rid of a lot of clutter with all the uses if div. I consolidated the CSS by combining the classes together and creating a color varable.
-
+https://bennjpierce.github.io/NewHorison-Refactor/  
 ## Installation
 
 N/A

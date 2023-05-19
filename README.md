@@ -11,7 +11,8 @@ N/A
 ## Usage
 
 By refactoring the code it hopefully will be easier to read and more effeicient to work on.
-
+"C:\Users\Bpier\OneDrive\Pictures\Screenshots\Screenshot 2023-05-18 225551.png" 
+"C:\Users\Bpier\OneDrive\Pictures\Screenshots\Screenshot 2023-05-18 225659.png"
 ## Credits
 
 N/A
